@@ -15,20 +15,4 @@ This project demonstrates how to implement pagination in a web application, prov
 - **Previous Button**: Allows the user to navigate to the previous page of data.
 - **Next Button**: Allows the user to move forward to the next page of data.
   
-### 4. Backend API Support for Pagination
-- The backend supports paginated data fetching, ensuring that only a subset of data is returned per request, improving performance and responsiveness.
-- Pagination parameters (e.g., page number and items per page) are passed to the backend to fetch the correct data subset.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-- Node.js and npm installed on your system.
-
-### Steps
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
 
